@@ -12,8 +12,8 @@ SPA
 
 
 You should add an .env file
-REACT_APP_API_KEY=ef66bafc611a0a0d83ba0bd28b1d7e71
-REACT_APP_BASE_URL=https://api.themoviedb.org/3/
+- REACT_APP_API_KEY=ef66bafc611a0a0d83ba0bd28b1d7e71
+- REACT_APP_BASE_URL=https://api.themoviedb.org/3/
 
 ## Available Scripts
 
